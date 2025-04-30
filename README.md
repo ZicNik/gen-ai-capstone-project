@@ -1,6 +1,7 @@
 # Let AI Blog About AI
 
 > *"Can an AI model write a meaningful article about itself?"*
+>
 > This project puts that question to the test, blending generative AI, prompt design, and real-world publishing.
 
 ## Overview
